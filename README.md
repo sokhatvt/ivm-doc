@@ -1,6 +1,4 @@
-
-line1
-line2
+clear
 test from local
 
 test from local2
