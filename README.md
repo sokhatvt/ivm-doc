@@ -1,4 +1,4 @@
-clear
+
 test from local
 
 test from local2
